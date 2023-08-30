@@ -1,1 +1,1 @@
-[![Build and deploy Node.js project to Azure Function App](https://github.com/okonomione/collector-spoke-messaging/actions/workflows/main.yml/badge.svg)](https://github.com/okonomione/collector-spoke-messaging/actions/workflows/main.yml)
+[![Messaging Function](https://github.com/okonomione/collector-spoke-messaging/actions/workflows/main.yml/badge.svg)](https://github.com/okonomione/collector-spoke-messaging/actions/workflows/main.yml)

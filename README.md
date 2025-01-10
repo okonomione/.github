@@ -1,6 +1,6 @@
 # Listing URLs
 
-![Midnight Merchant](https://midnight-merchant.com/static/media/logo.59c3e8d1873c6bf23e932fcc2cf43e1b.svg)
+[![Midnight Merchant](https://midnight-merchant.com/static/media/logo.59c3e8d1873c6bf23e932fcc2cf43e1b.svg)](https://midnightmerchant.com.au)
 
 - [Gym Trainer 191/195 - Sword & Shield - Silver Tempest - $N/A](https://midnightmerchant.com.au/listing/14ebd87b-ced2-493b-953c-08182f226aba/Sword%20%26%20Shield/Silver%20Tempest/Gym%20Trainer)
 - [Hisuian Samurott VSTAR 102/189 - Sword & Shield - Astral Radiance - $N/A](https://midnightmerchant.com.au/listing/0422f255-d9cb-4a18-a51a-b06cf7bf183d/Sword%20%26%20Shield/Astral%20Radiance/Hisuian%20Samurott%20VSTAR)

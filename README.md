@@ -1,4 +1,7 @@
-# Listing URLs
+# [Current Listings](https://midnightmerchant.com.au)
+
+
+
 
 - [Gym Trainer 191/195 - Sword & Shield - Silver Tempest - $0.5](https://midnightmerchant.com.au/listing/14ebd87b-ced2-493b-953c-08182f226aba/Sword%20%26%20Shield/Silver%20Tempest/Gym%20Trainer)
 - [Hisuian Samurott VSTAR 102/189 - Sword & Shield - Astral Radiance - $5.0](https://midnightmerchant.com.au/listing/0422f255-d9cb-4a18-a51a-b06cf7bf183d/Sword%20%26%20Shield/Astral%20Radiance/Hisuian%20Samurott%20VSTAR)
